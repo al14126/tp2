@@ -17,4 +17,15 @@
 }	
 
 #athings {
-	
+	background-color: grey;
+}	
+
+#athings h1 {
+	text-align: center;
+}	
+
+#athings hr {
+	width: 75%;
+	height: 5px;
+	background-color: fuchsia;
+}	
