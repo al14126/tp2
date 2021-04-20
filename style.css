@@ -1,1 +1,32 @@
-a
+.team {
+    width: 60%;
+    text-align: center;
+    display:inline;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.trombi {
+    width: 150px;
+    height: 150px;
+    display: inline;
+}
+
+#1 {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+#2 {
+    text-align: center;
+    width: auto;
+}
+
+#3 {
+    text-align: center;
+    width: auto;
+}
