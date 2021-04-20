@@ -6,6 +6,16 @@ header {
 	background-position:top center;	
 	height:100%;	
 }
+
+#logo {
+	position: absolute;
+	left:0px;
+	top:0px;
+	float: left;
+	width: 150px; 
+	height: 75px;
+	
+}
 ul {
     list-style-type: none;                   
     margin: 0;                                
