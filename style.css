@@ -1,0 +1,21 @@
+header { 	
+	background-image:url(img/i_dev.jpeg);
+	background-size:cover;	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:top center;	
+	height:100%;	
+}
+ul {
+    list-style-type: none;                   
+    margin: 0;                                
+    padding: 0;                                                      
+    background-color: #363433;
+    position: fixed;                        
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: right;                           
+}
