@@ -91,6 +91,13 @@ li a:hover {
 	background-color: fuchsia;
 }	
 
+
+#athings hr {
+	width: 75%;
+	height: 5px;
+	background-color: fuchsia;
+}	
+
 #alist {
 	background-image: url(img/alist.jpg);
 	background-size: 50%;					
@@ -108,3 +115,4 @@ li a:hover {
 	margin-left: 50px;
 	text-align: center;
 }	
+
